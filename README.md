@@ -2,6 +2,6 @@
 
 I'm Bia, and..
 
-- 🔭 Working on Implementation Specialist
+- 🔭 Working on QA Analyst
 - 🌱 Learning JavaScript - HTML - CSS - Java
 - 👩‍🎓 Systems Analysis & Development - in progress ⏳
